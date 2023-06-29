@@ -1,0 +1,40 @@
+.song-logo {
+  width: 120px;
+  height: 100px;
+  margin-right: 15px;
+}
+.name-container {
+  display: flex;
+  flex-direction: column;
+}
+.genre-container {
+  display: flex;
+  justify-content: space-between;
+
+  margin: auto;
+  margin-bottom: 15px;
+  padding-right: 45px;
+}
+.image-container {
+  display: flex;
+}
+.genre {
+  color: #3b82f6;
+}
+.delete-container {
+  display: flex;
+}
+.duration {
+  padding-right: 25px;
+  font-size: 20px;
+  margin-top: 40px;
+}
+.delete-btn {
+  background: transparent;
+  border-style: none;
+  color: #ffffff;
+}
+.delete-icon {
+  width: 30px;
+  height: 30px;
+}
